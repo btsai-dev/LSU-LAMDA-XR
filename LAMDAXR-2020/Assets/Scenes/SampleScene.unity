@@ -1813,7 +1813,7 @@ PrefabInstance:
       objectReference: {fileID: 990530084}
     - target: {fileID: 4377898097194180037, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: animationSpeed
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4377898097194180037, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: rotationOffset.z
@@ -1821,7 +1821,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4377898097815850998, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: rotateSpeed
-      value: 400
+      value: 100
       objectReference: {fileID: 0}
     - target: {fileID: 4377898097815850998, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: followObject
@@ -1829,7 +1829,7 @@ PrefabInstance:
       objectReference: {fileID: 1731419777}
     - target: {fileID: 4377898097815850998, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: animationSpeed
-      value: 10
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 4377898097815850998, guid: da7072001506e534ea7d06ffa9b5834c, type: 3}
       propertyPath: rotationOffset.z
